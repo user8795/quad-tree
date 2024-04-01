@@ -21,17 +21,17 @@ Credits:
 
 
 Usage:
-	Installation: 
-	download the quadtree.js source file containing the quadtree implementation.
+Installation: 
+download the quadtree.js source file containing the quadtree implementation.
 
-	Integration: 
-	Include the quadtree module in your project
+Integration: 
+Include the quadtree module in your project
 
-	Initialization: 
-	Create a new instance of a Rectangle (bounding box)
-	Create a new instance of the Quadtree class specifying the bound box
-	and the capacity you desire
+Initialization: 
+Create a new instance of a Rectangle (bounding box)
+Create a new instance of the Quadtree class specifying the bound box
+and the capacity you desire
 
-	Insertion:
-	Add points to the quadtree using the insert() method, providing the 
-	coordinates of each point.
+Insertion:
+Add points to the quadtree using the insert() method, providing the 
+coordinates of each point.
